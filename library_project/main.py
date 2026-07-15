@@ -11,6 +11,7 @@ lib = Library()
 lib.load_data()
 
 while True:
+    print("Available commands: add book, add reader, borrow book, return book, remove book, show books, show readers, sort books, finish")
     command = input("Command: ")
 
     if command.lower() == "finish":
