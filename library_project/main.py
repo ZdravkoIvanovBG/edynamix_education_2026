@@ -1,4 +1,4 @@
-from edynamix_education_2026.library_project.library import Library
+from library import Library
 
 def add_book_information():
     book_title = input("Title: ")

@@ -1,4 +1,4 @@
-from edynamix_education_2026.library_project.books.library_item import LibraryItem
+from books.library_item import LibraryItem
 
 
 class EBook(LibraryItem):

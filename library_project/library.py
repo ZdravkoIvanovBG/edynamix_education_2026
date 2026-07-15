@@ -1,8 +1,8 @@
 import json
 
-from edynamix_education_2026.library_project.books.book import Book
-from edynamix_education_2026.library_project.books.e_book import EBook
-from edynamix_education_2026.library_project.reader import Reader
+from books.book import Book
+from books.e_book import EBook
+from reader import Reader
 
 
 class Library:
